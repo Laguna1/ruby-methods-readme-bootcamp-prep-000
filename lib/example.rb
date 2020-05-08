@@ -1,5 +1,5 @@
 # Use this space to code along with the readme
-def hello_world(phrase)
+def hello_world
  puts phrase = "Hello World!"
 end
 puts phrase
